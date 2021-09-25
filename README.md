@@ -1,1 +1,1 @@
-# itterator-design-pattern
+# iterator-design-pattern
